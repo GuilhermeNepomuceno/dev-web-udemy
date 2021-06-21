@@ -1,0 +1,10 @@
+@media screen and (max-width: 900px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .splashDescription {
+        width: 50%;
+    }
+}
